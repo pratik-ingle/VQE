@@ -21,7 +21,7 @@ where λ is energy value for given state |ψ⟩. for every different |ψ⟩ we c
 ![Variational quantum eigensolver single qubit(VQE)](vqe.png)   
 
 
-VQE can be some up in three parts 
+VQE can be sum up in three parts 
 1. Decomposition
 2. Circuit
     - Ansatz
