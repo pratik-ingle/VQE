@@ -1,5 +1,5 @@
 # VQE
-Finding lowest Eigenvalue for given Two-Qubit Hamiltonian
+Finding lowest Eigenvalue for given Two-Qubit Hamiltonian using VQE-like circuits
 
 # Task 4 
 Hamiltonian (H):
