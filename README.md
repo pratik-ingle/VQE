@@ -28,4 +28,5 @@ VQE can be sum up in three parts
     - Initializing mesurement basis
 3. Measurement
  
- 
+(run the code for interactive eigenvalues graphs :) 
+Preview:https://nbviewer.jupyter.org/github/pratik-ingle/VQE/blob/master/VQE.ipynb
